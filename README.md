@@ -1,6 +1,6 @@
 # User Behavior Intelligence
 
-Analyzing how people actually behave on a review platform — how they discover businesses, how they engage (reviews, tips, check-ins), and what separates a casual one-time reviewer from a highly engaged "elite" user — using the Yelp Open Dataset.
+Analyzing how people actually behave on a review platform , how they discover businesses, how they engage (reviews, tips, check-ins), and what separates a casual one-time reviewer from a highly engaged "elite" user — using the Yelp Open Dataset.
 
 ---
 
@@ -8,7 +8,7 @@ Analyzing how people actually behave on a review platform — how they discover 
 
 Yelp connects millions of users to local businesses through ratings, written reviews, tips, and check-ins. This project digs into that behavioral data to answer a simple question: **what does user engagement actually look like, and what drives it?**
 
-The project treats Yelp less like a review site and more like a behavioral dataset — using it to practice real-world data analytics skills: cleaning large semi-structured JSON data, engineering behavioral features, segmenting users, running sentiment analysis on review text, and connecting user behavior back to business performance.
+The project treats Yelp less like a review site and more like a behavioral dataset , using it to practice real-world data analytics skills: cleaning large semi-structured JSON data, engineering behavioral features, segmenting users, running sentiment analysis on review text, and connecting user behavior back to business performance.
 
 ## 🎯 Objectives
 
