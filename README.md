@@ -1,6 +1,6 @@
 # User Behavior Intelligence
 
-Analyzing how people actually behave on a review platform , how they discover businesses, how they engage (reviews, tips, check-ins), and what separates a casual one-time reviewer from a highly engaged "elite" user — using the Yelp Open Dataset.
+Analyzing how people actually behave on a review platform , how they discover businesses, how they engage (reviews, tips, check-ins), and what separates a casual one-time reviewer from a highly engaged "elite" user , using the Yelp Open Dataset.
 
 ---
 
