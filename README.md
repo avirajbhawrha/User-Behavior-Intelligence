@@ -104,10 +104,4 @@ User-Behavior-Intelligence/
 
 _To be filled in as analysis progresses — segmentation profiles, sentiment-vs-rating findings, and business performance charts will be added here with supporting visuals from `reports/figures/`._
 
-## 👤 Author
 
-**Aviraj** — CS undergraduate, MVJ College of Engineering, Bangalore.
-
-## 📄 License
-
-This project's code is available for personal/educational use. The underlying Yelp data is subject to [Yelp's Dataset Terms of Use](https://www.yelp.com/dataset) and is **not** redistributed in this repository.
